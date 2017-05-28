@@ -1,5 +1,5 @@
 <?php
-require("./vendor/autoload.php");
+require("./objek/autoload.php");
 use Coinbase\Wallet\Client;
 use Coinbase\Wallet\Configuration;
 
